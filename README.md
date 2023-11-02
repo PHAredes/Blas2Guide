@@ -9,8 +9,8 @@ Welcome to the Blasphemous 2 Speedrun Guide project. This repository is dedicate
   - [Introduction](#introduction)
   - [Scene-by-Scene Documentation](#scene-by-scene-documentation)
   - [Tech Directory](#tech-directory)
+  - [Versions](#versions)
   - [Additional Resources](#additional-resources)
-    - [Versions](#versions)
   - [Contributing](#contributing)
   - [License](#license)
   - [Disclaimer](#disclaimer)
@@ -47,6 +47,12 @@ We maintain a directory of techniques, tricks, and glitches used in "Blasphemous
 
 Please check the "Tech" folder for detailed information on each technique.
 
+## Versions
+
+While the guide focuses on the Steam version of "Blasphemous 2," it is worth mentioning that the majority of the content and techniques apply equally to the GOG version of the game. Players on both platforms can benefit from the strategies and information provided here.
+
+Please note that while many techniques may also work on console versions, the primary focus of this project is on the PC versions. We do not commit to exploring or extensively testing console versions. Users are encouraged to experiment and adapt the documented techniques to their respective platforms, but do so at their own discretion and risk.
+
 ## Additional Resources
 
 Here are some relevant links and resources for Blasphemous 2 speedrunning:
@@ -61,12 +67,6 @@ Here are some relevant links and resources for Blasphemous 2 speedrunning:
 - [Blasphemous Mod Installer](https://github.com/BrandenEK/Blasphemous-Mod-Installer)
 - [BlasII.AutoSplitter](https://github.com/BrandenEK/BlasII.AutoSplitter)
 - [Discord Community](https://discord.com/invite/YDPRKerPtw)
-
-### Versions
-
-While the guide focuses on the Steam version of "Blasphemous 2," it is worth mentioning that the majority of the content and techniques apply equally to the GOG version of the game. Players on both platforms can benefit from the strategies and information provided here.
-
-Please note that while many techniques may also work on console versions, the primary focus of this project is on the PC versions. We do not commit to exploring or extensively testing console versions. Users are encouraged to experiment and adapt the documented techniques to their respective platforms, but do so at their own discretion and risk.
 
 ## Contributing
 
