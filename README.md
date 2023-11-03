@@ -1,19 +1,39 @@
 # Blasphemous 2 Speedrun Guide (Under Development)
 
-Welcome to the Blasphemous 2 Speedrun Guide project. This repository is dedicated to documenting tricks, glitches, and strategies for "Blasphemous 2," version 1.0.5 on PC. The goal is to provide a comprehensive resource for the speedrunning community, scene by scene and technique by technique, covering both conventional and unconventional methods.
+Welcome to the Blasphemous 2 Speedrun Guide project. This repository is dedicated to documenting tricks, glitches, and strategies for "Blasphemous 2," version 1.0.5 on PC. The goal is to provide a comprehensive resource for the speedrunning community, scene by scene and technique by technique, covering both conventional and unconventional methods. Also provides data for all weapons, relevant prayers and verses.
 
 ## Table of Contents
 
 - [Blasphemous 2 Speedrun Guide (Under Development)](#blasphemous-2-speedrun-guide-under-development)
   - [Table of Contents](#table-of-contents)
+  - [Goals](#goals)
   - [Introduction](#introduction)
   - [Scene-by-Scene Documentation](#scene-by-scene-documentation)
   - [Tech Directory](#tech-directory)
+  - [Arsenal of Penitence](#arsenal-of-penitence)
+  - [Prayers](#prayers)
+    - [Chants](#chants)
+    - [Quick Verses](#quick-verses)
   - [Versions](#versions)
   - [Additional Resources](#additional-resources)
   - [Contributing](#contributing)
   - [License](#license)
   - [Disclaimer](#disclaimer)
+  
+## Goals
+
+The goal of this guide is to provide a comprehensive and assertive resource for speedrunning the game "Blasphemous 2". This includes information on:
+
+1. Every relevant technique, including but not retricted to possible skips and checks
+2. Every scene in the game
+3. Every boss fight, and an analysis of relevant enemies for specific set ups and skips
+4. Every single weapon, from damage, combos, usability and relevant content
+5. Chants as a whole, and in-depth for relevant Chants
+6. Quick Verses as a whole, and in-depth for the two different categories of Verses
+
+It will also include information about relevant assets, mods, spreadsheets, as well as links for downloadable content that can be used for speedruns regardless of categories and to create content about the game as a whole.
+
+Although it may look like a Wiki and any person's contribution is encouraged, since one of the primary goals is to ensure that the project is assertive and reliable, all contributions will be subject to review by the project maintainers to verify their accuracy, which differs from the typical open editing approach of a wiki
 
 ## Introduction
 
@@ -25,7 +45,7 @@ The goal is to promote in-depth game knowledge collaboratively discovered by the
 
 Additionally, please be aware that this guide is not definitive, and the knowledge about the game is expected to expand as new runs are completed and new strategies are discovered. It's a non-exhaustive resource, although striving to be as comprehensive as possible is the goal.
 
-## Scene-by-Scene Documentation
+## [Scene-by-Scene Documentation](scenes\scenes.md)
 
 In this wiki, we aim to document each scene of the game in detail, including the following information:
 
@@ -36,7 +56,7 @@ In this wiki, we aim to document each scene of the game in detail, including the
 
 Please refer to the individual folders in this repository to access scene-specific documentation.
 
-## Tech Directory
+## [Tech Directory](technique\techs.md)
 
 We maintain a directory of techniques, tricks, and glitches used in "Blasphemous 2." Each entry in the directory will include the following:
 
@@ -47,11 +67,32 @@ We maintain a directory of techniques, tricks, and glitches used in "Blasphemous
 
 Please check the "Tech" folder for detailed information on each technique.
 
+**Notes:**
+For a technique to be included in this project, it must be replicable by humans on any unaltered copy of the 1.0.5 version for PC, using either an American layout keyboard or an Xinput-type controller. Techs which requires specific setups as lower fps or tool assist this may be listed with a disclamer. While some techniques might work on other platforms or game versions, they won't be extensively explored within this project.
+
+## Arsenal of Penitence
+
+It is a goal to cover an all in-depth analysis of each weapon at Blasphemous II, listing techniques, damage output and level up and upgrades behavior and implyings.
+
+## Prayers
+
+It is a goal to provide information about any relevant trick involving prayers, for both Quick Verses and Chants
+
+### Chants
+
+Covers general Chants behavior and an in-depth analysis of both Mirabras of the Return to the Port and Jabera to the Poison of Jealousy. No other prayer have yet been proved to have an different usage from expected none will be covered (until it changes)
+
+### Quick Verses
+
+It is a goal to provide information about verses techniques, divided in two main categories: Hold Verses (for verses you can hold cast button to keep it going) and Throw Verses (for the ones you just press and The Penitent One throw a projectile). Also there will be a dedicated file to cover Bleeding Crown
+
 ## Versions
 
 While the guide focuses on the Steam version of "Blasphemous 2," it is worth mentioning that the majority of the content and techniques apply equally to the GOG version of the game. Players on both platforms can benefit from the strategies and information provided here.
 
 Please note that while many techniques may also work on console versions, the primary focus of this project is on the PC versions. We do not commit to exploring or extensively testing console versions. Users are encouraged to experiment and adapt the documented techniques to their respective platforms, but do so at their own discretion and risk.
+
+Also, some techniques may behavior differently depends on fps (mainly 60/30 variations), and a few are only possible at 30 or less frames per second. When relevant it will be pointed out at the technique description. Notice 30fps only techniques can only be used at specific categories for speedrunning purposes.
 
 ## Additional Resources
 
@@ -74,7 +115,7 @@ We welcome contributions from the speedrunning community to help improve and exp
 
 For guidelines on how to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## License
+## [License](LICENSE)
 
 This project is licensed under the [MIT License](LICENSE), which means it is open-source, and you are encouraged to use, modify, and share it.
 
