@@ -100,16 +100,17 @@ Here are some relevant links and resources for Blasphemous 2 speedrunning:
 
 - [Official Blasphemous 2 Website](https://www.blasphemous2game.com/)
 - [Blasphemous Subreddit](https://www.reddit.com/r/Blasphemous)
-- [Blasphemous 2 Subreddit](https://www.reddit.com/r/BlasphemousII/)
+- [Blasphemous 2 Subreddit](https://www.reddit.com/r/BlasphemousII)
 - [Speedrunning Leaderboards](https://www.speedrun.com/Blasphemous_II)
 - [Discord Speedrunning Community](https://discord.gg/blasphemous2speedrun)
-- [Demajen's Blasphemous 2 Map](https://www.demajen.co.uk/#B)
-  - Please note: Demajen's Metroidvania Maps are provided by Demajen and is subject to their terms of use and rules. Make sure to use the map in accordance with their guidelines and respect their content. Their maps are the property of Demajen, and any rules they have set should be followed.
 - [Blasphemous Mod Installer](https://github.com/BrandenEK/Blasphemous-Mod-Installer)
 - [BlasII.AutoSplitter](https://github.com/BrandenEK/BlasII.AutoSplitter)
 - [Discord Community](https://discord.com/invite/YDPRKerPtw)
+- [Demajen's Blasphemous 2 Map*](https://www.demajen.co.uk/#B) <details>
+    Demajen's Metroidvania Maps are provided by Demajen and are subject to their terms of use and rules. Be sure to use the map in accordance with their guidelines and respect their content. Their maps are the property of Demajen, and any rules they have set should be followed.
+  </details>
 
-## Contributing
+## [Contributing](CONTRIBUTING.md)
 
 We welcome contributions from the speedrunning community to help improve and expand this wiki. If you have new techniques to document, additional scene information, or corrections, please feel free to contribute by submitting pull requests.
 
