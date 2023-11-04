@@ -4,17 +4,17 @@ This directory is designed to help speedrunners navigate and explore various tec
 
 In this directory, you will find a list of techniques categorized as "Glitched," "Intended," and "Mirabras Rabbithole." Each technique is thoroughly described with information relevant to speedrunners.
 
-- **[Glitched](glitched\glitched_techs.md)**: This category includes techniques that require obvious unintended behavior or break game rules and/or were fixed in later versions of the game.
+- **[Glitched](glitched/glitched_techs.md)**: This category includes techniques that require obvious unintended behavior or break game rules and/or were fixed in later versions of the game.
 
-- **[Intended](intended\intended_techs.md)**: Techniques in this category weren't fixed in later versions or came as a default feature but aren't too obvious to be considered strictly "playing under the rules."
+- **[Intended](intended/intended_techs.md)**: Techniques in this category weren't fixed in later versions or came as a default feature but aren't too obvious to be considered strictly "playing under the rules."
 
-- **[Mirabras Rabbithole](mirabras_rabbithole\mirabras_rabbithole_techs.md)**: This category refers to any technique derived from Prayer Cancelling Mirabras of the Return to the Port prayer. As a default, all techniques under this umbrella require at least Mirabras and 2 different weapons; however, they may have additional requirements.
+- **[Mirabras Rabbithole](mirabras_rabbithole/mirabras_rabbithole_techs.md)**: This category refers to any technique derived from Prayer Cancelling Mirabras of the Return to the Port prayer. As a default, all techniques under this umbrella require at least Mirabras and 2 different weapons; however, they may have additional requirements.
 
 Please note that within the "Mirabras Rabbithole" category, techniques may have additional requirements beyond the minimum mentioned.
 
 ## Format
 
-In every subdirectory you will find a README splaining the format and requirements of that technique category; they will follow this format:
+There is a technique [template](../../templates/tech_template.md). It will follow this format:
 
 | Technique Name         | Technique Category        |
 |------------------------|---------------------------|

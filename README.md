@@ -45,7 +45,7 @@ The goal is to promote in-depth game knowledge collaboratively discovered by the
 
 Additionally, please be aware that this guide is not definitive, and the knowledge about the game is expected to expand as new runs are completed and new strategies are discovered. It's a non-exhaustive resource, although striving to be as comprehensive as possible is the goal.
 
-## [Scene-by-Scene Documentation](scenes\scenes.md)
+## [Scene-by-Scene Documentation](src/scenes/scenes.md)
 
 In this wiki, we aim to document each scene of the game in detail, including the following information:
 
@@ -56,7 +56,7 @@ In this wiki, we aim to document each scene of the game in detail, including the
 
 Please refer to the individual folders in this repository to access scene-specific documentation.
 
-## [Tech Directory](technique\techs.md)
+## [Tech Directory](src/technique/techs.md)
 
 We maintain a directory of techniques, tricks, and glitches used in "Blasphemous 2." Each entry in the directory will include the following:
 
@@ -106,7 +106,7 @@ Here are some relevant links and resources for Blasphemous 2 speedrunning:
 - [Blasphemous Mod Installer](https://github.com/BrandenEK/Blasphemous-Mod-Installer)
 - [BlasII.AutoSplitter](https://github.com/BrandenEK/BlasII.AutoSplitter)
 - [Discord Community](https://discord.com/invite/YDPRKerPtw)
-- [Demajen's Blasphemous 2 Map*](https://www.demajen.co.uk/#B) <details>
+- [Demajen's Blasphemous 2 Map*](https://www.demajen.co.uk/#B)<details>
     Demajen's Metroidvania Maps are provided by Demajen and are subject to their terms of use and rules. Be sure to use the map in accordance with their guidelines and respect their content. Their maps are the property of Demajen, and any rules they have set should be followed.
   </details>
 
