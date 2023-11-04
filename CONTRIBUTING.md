@@ -16,7 +16,7 @@ You can open a [issue](https://github.com/PHAredes/Blas2-Speedrun-Guide/issues/n
 By doing a pull request you can post a new technique or modify one existente.
 Tto do so, follow this steps:
 
-1. **Fork this Repository:** Begin by creating a fork of this repository in your own GitHub account. This will create a copy of the project in your profile.
+1. **Fork this Repository:** Begin by creating a [fork](https://github.com/PHAredes/Blas2-Speedrun-Guide/fork) of this repository in your own GitHub account. This will create a copy of the project in your profile.
 
 2. **Understand the Format:** Carefully read through the [techs.md](src/technique/techs.md) file to understand how a technique should be posted in this guide.
 
