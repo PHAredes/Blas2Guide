@@ -1,6 +1,6 @@
 ## Insert Technique Name
 
-![Technique Gif](URL_OF_GIF)
+![Technique Gif](https://i.imgur.com/sZMWLDT.png)
 
 |                           |                           |
 |---------------------------|---------------------------|
