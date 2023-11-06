@@ -1,5 +1,9 @@
 # CONTRIBUTING
 
+We welcome contributions from the speedrunning community to help improve and expand this wiki. If you have new techniques to document, additional scene information, or corrections, please feel free to contribute
+
+## How to Contribute
+
 Right now there are two ways of contributing to the project:
 
 1. Reporting issues and suggesting features on [GitHub Issues](#github-issues)
