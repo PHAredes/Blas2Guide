@@ -1,6 +1,6 @@
 ## Insert Technique Name
 
-![Technique Gif](https://i.imgur.com/sZMWLDT.png)
+[![tech gif and video](insert tech gif)](insert tech video)
 
 |                           |                           |
 |---------------------------|---------------------------|
