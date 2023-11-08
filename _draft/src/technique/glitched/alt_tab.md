@@ -1,6 +1,6 @@
 ## Alt Tab Early Control
 
-![gif](assets/../../../../assets/alt_tab.gif)
+![gif](/assets/alt_tab.gif)
 
 |                           |                           |
 |---------------------------|---------------------------|
@@ -32,4 +32,4 @@ It can be avoided by waiting TPO to finishes its Prie Dieu's spawn animation.
 
 (click on image for better quality)
 
-[![vídeo](assets/../../../../assets/intro_skip.gif)](https://youtu.be/pzZi4zQXI0Y?si=cHPj3C7D2LtwAB9o&t=4)
+[![vídeo](/assets/intro_skip.gif)](https://youtu.be/pzZi4zQXI0Y?si=cHPj3C7D2LtwAB9o&t=4)
