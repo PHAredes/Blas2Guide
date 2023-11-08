@@ -4,11 +4,9 @@ title: Alt Tab Early Control
 date: 2023-11-08 12:34 -0300
 authors: pedro
 categories: [technique, glitched]
-tags: [intro skip, z0101]
 ---
 
-![gif](/assets/alt_tab.gif){: w="700"}
-_subtitle_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eP-bYCFfvJw?si=ZKWGWwVpuGd7IFr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Alt Tab Early Control
 

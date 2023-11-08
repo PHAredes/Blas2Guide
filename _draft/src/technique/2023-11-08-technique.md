@@ -1,4 +1,10 @@
-# Techs
+---
+layout: post
+title: Technique
+date: 2023-11-08 12:34 -0300
+authors: pedro
+categories: [technique]
+---
 
 This directory is designed to help speedrunners navigate and explore various techniques that can be utilized to optimize their gameplay and enhance their speedrunning experience.
 
