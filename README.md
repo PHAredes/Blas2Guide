@@ -1,6 +1,6 @@
 # Blasphemous 2 Speedrun Guide (Under Development)
 
-Preview [here](https://pharedes.github.io/Blas2-Speedrun-Guide/)!
+Preview [here](https://blas2guide.vercel.app/)!
 
 Welcome to the Blasphemous 2 Speedrun Guide project. This repository is dedicated to documenting tricks, glitches, and strategies for "Blasphemous 2," version 1.0.5 on PC. The goal is to provide a comprehensive resource for the speedrunning community, scene by scene and technique by technique, covering both conventional and unconventional methods. Also provides data for all weapons, relevant prayers and verses.
 
