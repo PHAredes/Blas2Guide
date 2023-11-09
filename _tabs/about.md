@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 Welcome to the Blasphemous 2 Speedrun Guide, a comprehensive resource for speedrunning enthusiasts. This guide is dedicated to documenting techniques, glitches, and strategies for "Blasphemous 2," version 1.0.5 on PC.
