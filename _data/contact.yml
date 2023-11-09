@@ -1,13 +1,13 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+  icon: "fa-brands fa-github"
 
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
 - type: email
-  icon: "fas fa-envelope"
+  icon: "fa-solid fa-envelope"
   noblank: true # open link in current tab
 
 #- type: rss
@@ -15,13 +15,13 @@
 #  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+- type: readme
+  icon: 'fa-brands fa-readme' # icons powered by <https://fontawesome.com/>
+  url:  'https://github.com/PHAredes/Blas2-Speedrun-Guide/blob/main/README.md'
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: FAQ
+  icon: fa-solid fa-circle-info # icons powered by <https://fontawesome.com/>
+  url:  ''
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
