@@ -1,7 +1,15 @@
 {
+  "name": "vitepress-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "v1.0.0-rc.25",
+    "vue": "v3.3.8"
+  },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
   }
 }
