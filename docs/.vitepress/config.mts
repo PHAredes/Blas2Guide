@@ -53,6 +53,7 @@ export default defineConfig({
           { text: 'Contributing', link: '/CONTRIBUTING' },
           { text: 'Credits', link: '/CREDITS' },
           { text: 'License', link: '/LICENSE' },
+          { text: 'Disclaimer', link: '/DISCLAIMER' },
         ]
       }
     ],
