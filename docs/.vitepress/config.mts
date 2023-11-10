@@ -31,8 +31,17 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Categories',
+        collapsed: false,
         items: [
-          { text: 'Arsenal of Penitence', link: '/arsenal/' },
+          { text: 'Arsenal of Penitence',
+            link: '/arsenal/',
+            collapsed: true,
+            items: [
+              { text: 'Ruego al Alba', link: '/arsenal/ruego'},
+              { text: 'Sarmiento & Centella', link: '/arsenal/s&c'},
+              { text: 'Veredicto', link: '/arsenal/veredicto'}
+            ]
+          },
           { text: 'Chants and Quick Verses', link: '/prayers/' },
           { text: 'Scene by Scene', link: '/scenes/' },
           { text: 'Techniques', link: '/technique/' }
@@ -42,6 +51,8 @@ export default defineConfig({
         text: 'About',
         items: [
           { text: 'Contributing', link: '/CONTRIBUTING' },
+          { text: 'Credits', link: '/CREDITS' },
+          { text: 'License', link: '/LICENSE' },
         ]
       }
     ],

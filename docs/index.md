@@ -3,19 +3,24 @@
 layout: home
 
 hero:
-  name: "Blas2Guide"
-  text: "Documentation for vanilla and randomized speedruns"
+  name: "Blasphemous 2 Guide"
+  tagline: "Documentation for vanilla and randomized speedruns"
   actions:
     - theme: brand
       text: Get started
       link: /README
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/vuejs/vitepress
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Arsenal of Penitence
+    details: Covering every single weapon TPO can hold
+  - title: Scene By Scene
+    details: Every scene trick and treats, no matter how hard they are to pull off
+  - title: Chants and Quick Verses
+    details: A dedicated session to cover all Prayers glitches and usability throughout the run
+  - title: Techniques
+    details: Glitches, intended but not clear mechanics and a full cover on Mirabras Cancel techniques
 ---
 

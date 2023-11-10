@@ -34,11 +34,18 @@ In order to perform this trick you need to force a load. It can be achieved by a
 
 ## How to Perform
 
-- After loading a file or start a new game, press alt+tab or Windows+D a few times while holding a direction (left or right) in your gamepad/keyboard
+::: tip
+Hold **LEFT/RIGHT**, Press (**Alt** + **Tab**) (3~5x).
+:::
+
+- After loading a file or start a new game, press alt+tab or Windows+D a few times while holding a direction (LEFT or RIGHT) in your gamepad/keyboard
 - You can either mash buttons or press it when load starts and then a few times; both works but the later is harder to perform
 
 ## List of Usages
 
 ### Intro Skip
 
-<iframe width="700"  height="400" src="https://www.youtube.com/embed/pzZi4zQXI0Y?si=WqULO426Z1HA64kD&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzZi4zQXI0Y?si=WqULO426Z1HA64kD&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

@@ -1,4 +1,4 @@
-# Arsenal of Penitence
+# Veredicto
 
 ::: tip
 This page is a placeholder.

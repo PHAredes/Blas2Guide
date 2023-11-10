@@ -20,6 +20,11 @@ As a few additions to this:
 
 ## Zone List
 
+::: warning
+This list will lead you to empty pages.
+Please note this project is on early stages, and you can [help by expanding it](/CONTRIBUTING)
+:::
+
 (Click on a zone name to see its list of scenes)
 
 - Z01 - [Repose of the Silent One](z01/Z01.md)

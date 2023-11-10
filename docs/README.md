@@ -93,9 +93,10 @@ Here are some relevant links and resources for Blasphemous 2 speedrunning:
 - [Blasphemous Mod Installer](https://github.com/BrandenEK/Blasphemous-Mod-Installer)
 - [BlasII.AutoSplitter](https://github.com/BrandenEK/BlasII.AutoSplitter)
 - [Discord Community](https://discord.com/invite/YDPRKerPtw)
-- [Demajen's Blasphemous 2 Map*](https://www.demajen.co.uk/#B)<details>
+- [Demajen's Blasphemous 2 Map*](https://www.demajen.co.uk/#B)
+::: details
     Demajen's Metroidvania Maps are provided by Demajen and are subject to their terms of use and rules. Be sure to use the map in accordance with their guidelines and respect their content. Their maps are the property of Demajen, and any rules they have set should be followed.
-  </details>
+:::
 
 ## [Contributing](CONTRIBUTING)
 
