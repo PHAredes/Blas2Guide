@@ -16,7 +16,7 @@ Please note that within the "Mirabras Rabbithole" category, techniques may have 
 
 ## Format
 
-There is a technique [template](../../templates/tech_template). It will follow this format:
+There is a technique [template](../templates/tech_template.md). It will follow this format:
 
 | Technique Name         | Technique Category        |
 |------------------------|---------------------------|
