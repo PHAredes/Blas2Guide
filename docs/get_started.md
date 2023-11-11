@@ -57,27 +57,9 @@ It is a goal to provide information about verses techniques, divided in two main
 
 This is a guide for the Steam version 1.0.5 release.
 
-## Additional Resources
+## [Contributing](/about/CONTRIBUTING)
 
-Here are some relevant links and resources for Blasphemous 2 speedrunning:
-
-- [Official Blasphemous 2 Website](https://www.blasphemous2game.com/)
-- [Blasphemous Subreddit](https://www.reddit.com/r/Blasphemous)
-- [Blasphemous 2 Subreddit](https://www.reddit.com/r/BlasphemousII)
-- [Speedrunning Leaderboards](https://www.speedrun.com/Blasphemous_II)
-- [Discord Speedrunning Community](https://discord.gg/blasphemous2speedrun)
-- [Blasphemous Mod Installer](https://github.com/BrandenEK/Blasphemous-Mod-Installer)
-- [BlasII.AutoSplitter](https://github.com/BrandenEK/BlasII.AutoSplitter)
-- [Discord Community](https://discord.com/invite/YDPRKerPtw)
-- [Demajen's Blasphemous 2 Map*](https://www.demajen.co.uk/#B)
-
-::: warning
-    Before using Demajen maps read their terms!
-:::
-
-## [Contributing](CONTRIBUTING)
-
-For guidelines on how to contribute, please refer to the [CONTRIBUTING](CONTRIBUTING).
+For guidelines on how to contribute, please refer to the [CONTRIBUTING](/about/CONTRIBUTING).
 
 ## License
 

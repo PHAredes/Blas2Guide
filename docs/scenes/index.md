@@ -22,7 +22,7 @@ As a few additions to this:
 
 ::: warning
 This list will lead you to empty pages.
-Please note this project is on early stages, and you can [help by expanding it](/CONTRIBUTING)
+Please note this project is on early stages, and you can [help by expanding it](/about/CONTRIBUTING)
 :::
 
 (Click on a zone name to see its list of scenes)
