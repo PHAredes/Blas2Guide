@@ -50,14 +50,20 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Resources',
+        items: [
+          { text: 'Additional Resources', link: '/about/additional_resources' }
+        ]
+      },
+      {
         text: 'About',
         items: [
-          { text: 'Contributing', link: '/CONTRIBUTING' },
-          { text: 'Credits', link: '/CREDITS' },
-          { text: 'License', link: '/LICENSE' },
-          { text: 'Disclaimer', link: '/DISCLAIMER' },
+          { text: 'Contributing', link: '/about/CONTRIBUTING' },
+          { text: 'Credits', link: '/about/CREDITS' },
+          { text: 'License', link: '/about/LICENSE' },
+          { text: 'Disclaimer', link: '/about/DISCLAIMER' },
         ]
-      }
+      },
     ],
 
     footer: {

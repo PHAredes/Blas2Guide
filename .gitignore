@@ -1,4 +1,5 @@
 .vercel
 node_modules
-docs/.vitepres/cache
+docs/.vitepress/cache
 docs/.vitepress/dist
+docs/.vitepress/deps
