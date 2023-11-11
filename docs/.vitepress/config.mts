@@ -32,7 +32,6 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Categories',
-        collapsed: false,
         items: [
           { text: 'Arsenal of Penitence',
             link: '/arsenal/',
@@ -45,7 +44,16 @@ export default defineConfig({
           },
           { text: 'Chants and Quick Verses', link: '/prayers/' },
           { text: 'Scene by Scene', link: '/scenes/' },
-          { text: 'Techniques', link: '/technique/' }
+          { text: 'Techniques', 
+            link: '/technique/',
+            collapsed: true,
+            items: [
+              { text: 'Glitched', link: '/technique/glitched/'},
+              { text: 'Intended', link: '/technique/intended/'},
+              { text: 'Mirabras Rabbithole', link: '/technique/mirabras_rabbithole/'}
+            ]
+          
+          }
         ]
       },
       {

@@ -34,8 +34,8 @@ In order to perform this trick you need to force a load. It can be achieved by a
 
 ## How to Perform
 
-::: tip
-Hold **LEFT/RIGHT**, Press (**Alt** + **Tab**) (3~5x).
+::: tip Inputs
+Hold **LEFT** or **RIGHT**, Press (**Alt** + **Tab**) (3~5x).
 :::
 
 - After loading a file or start a new game, press alt+tab or Windows+D a few times while holding a direction (LEFT or RIGHT) in your gamepad/keyboard
