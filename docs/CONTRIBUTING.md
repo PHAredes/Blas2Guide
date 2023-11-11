@@ -4,14 +4,16 @@ We welcome contributions from the speedrunning community to help improve and exp
 
 ## How to Contribute
 
+::: tip
+You can simply click on _Edit this page_ at the footer of any page and start editing it.
+:::
+
 Right now there are a few ways of contributing to the project:
 
 1. Reporting issues and suggesting features on [GitHub Issues](#github-issues)
 2. Contributing via Pull Requests
 3. Improves the overall design of the page (I'm a backend developer with a framework and a dream)
 4. Upload you runs to [speedrun.com](https://www.speedrun.com/Blasphemous_II), since it is one of the main sources of footage for this guide
-
-New forms of contribution will be advised as the project grows
 
 ## Github Issues
 
