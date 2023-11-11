@@ -2,7 +2,7 @@
 
 ## Why 1.0.5
 
-Many techniques relies on glitches/exploits that were fixed on later versions. Although some can be bought back with [Damocles' Quality of Life mod](https://github.com/BrandenEK/BlasII.QualityOfLife) they are not possible to perform in an unmodified version of the game, thus this project will not focus on any of them unless some great changes are made in later versions.
+Many techniques relies on glitches/exploits that were fixed on later versions. Although some can be bought back with Damocles' [Quality of Life mod](https://github.com/BrandenEK/BlasII.QualityOfLife), they cannot be performed in an unmodified version of the game, thus this project will only focus on the release patch.
 
 ## Steam or GOG
 
