@@ -1,5 +1,4 @@
-import { defineConfig } from 'vitepress'
-import { withMermaid } from "vitepress-plugin-mermaid";
+import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   lang: 'en-US',
@@ -52,12 +51,14 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
-          { text: 'Additional Resources', link: '/about/additional_resources' }
+          { text: 'Glossary', link: '/resources/glossary' },
+          { text: 'Additional Resources', link: '/resources/additional_resources' }
         ]
       },
       {
         text: 'About',
         items: [
+          { text: 'Game Versions', link: '/about/game_versions' },
           { text: 'Contributing', link: '/about/CONTRIBUTING' },
           { text: 'Credits', link: '/about/CREDITS' },
           { text: 'License', link: '/about/LICENSE' },
