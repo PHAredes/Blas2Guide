@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Get started
-      link: /README
+      link: /get_started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/PHAredes/Blas2-Speedrun-Guide
 
 features:
   - title: Arsenal of Penitence

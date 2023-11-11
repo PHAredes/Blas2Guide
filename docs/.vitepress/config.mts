@@ -1,8 +1,6 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from "vitepress-plugin-mermaid";
 
-
-
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'en-US',
   title: "Blas2Guide",
@@ -21,6 +19,10 @@ export default defineConfig({
       provider: 'local'
     },
 
+    editLink: {
+      pattern: 'https://github.com/PHAredes/Blas2-Speedrun-Guide/tree/main/docs/:path'
+    },
+
     nav: [
       { text: 'Arsenal', link: '/arsenal/' },
       { text: 'Prayers', link: '/prayers/' },
@@ -37,7 +39,7 @@ export default defineConfig({
             link: '/arsenal/',
             collapsed: true,
             items: [
-              { text: 'Ruego al Alba', link: '/arsenal/ruego'},
+              { text: 'Ruego al Alba', link: '/arsenal/ruego/'},
               { text: 'Sarmiento & Centella', link: '/arsenal/s&c'},
               { text: 'Veredicto', link: '/arsenal/veredicto'}
             ]
@@ -66,5 +68,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/PHAredes/Blas2-Speedrun-Guide' },
       { icon: 'youtube', link: 'https://www.youtube.com/@Blasphemous2Guide' },
     ],
+
   }
 })
