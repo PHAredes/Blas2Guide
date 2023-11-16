@@ -12,7 +12,7 @@ This project has been developed with the collaboration and contributions of vari
 - Web Development and Content
   - [PHAredes](https://github.com/PHAredes)
   
-- Game development, moding and advices:
+- Game development, modding and advice:
   - [BrandenEK](https://github.com/BrandenEK)
 
 - Button Icons and Controls:
@@ -23,4 +23,4 @@ This project has been developed with the collaboration and contributions of vari
   - [Vitepress](https://vitepress.dev/): Documentation platform that made this possible.
 
 - Special thanks:
-  - All the active community on Blasphemous Speedrun Discord Channel
+  - All the active community on the Blasphemous Speedrun Discord Channel
