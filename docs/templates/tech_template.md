@@ -2,7 +2,7 @@
 
 [![tech gif and video](insert tech gif)](insert tech video)
 
-|                           |                           |
+|  Technique Name           |                           |
 |---------------------------|---------------------------|
 | **Speedrun Categories**   | Insert speedrun category  |
 | **Game Version**          | 1.0.5                     |

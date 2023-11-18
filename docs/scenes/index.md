@@ -18,7 +18,7 @@ As a few additions to this:
 - Breakable objects (as candles and boxes) and enemies will respawn after TPO interacts with a Prie Dieu. This is also true to interactive objects designed to give TPO access to some areas (statues that move platforms)
 - Puzzle objects will never be restored after puzzle is solved
 
-## Zone List
+## zone List
 
 ::: warning
 This list will lead you to empty pages.
@@ -27,32 +27,32 @@ Please note this project is on early stages, and you can [help by expanding it](
 
 (Click on a zone name to see its list of scenes)
 
-- Z01 - [Repose of the Silent One](z01/Z01.md)
-- Z02 - [Ravine of the High Stones](z02/Z02.md)
-- Z03 - [Aqueduct of the Costales](z03/Z03.md)
-- Z04 - [Sacred Entombments](z04/Z04.md)
-- Z05 - [City of the Blessed Name](z05/Z05.md)
-- Z06 - [Grilles and Ruin](z06/Z06.md)
-- Z07 - [Palace of the Embroideries](z07/Z07.md)
-- Z08 - [Choir of Thorns](z08/Z08.md)
-- Z09 - [Crown of Towers](z09/Z09.md)
-- Z10 - [Elevated Temples](z10/Z10.md)
-- Z11 - [Basilica of Absent Faces](z11/Z11.md)
-- Z12 - [Sunken Cathedral](z12/Z12.md)
-- Z13 - [Two Moons](z13/Z13.md)
-- Z14 - [Mother of Mothers](z14/Z14.md)
-- Z15 - [Sueños de Incienso](z15/Z15.md)
-- Z16 - [The Severed Tower](z16/Z16.md)
-- Z17 - [Streets of Wakes](z17/Z17.md)
-- Z18 - [Crimson Rains](z18/Z18.md)
-- Z19 - [Profundo Lamento](z19/Z19.md)
-- Z20 - [Sea of Ink](z20/Z20.md)
-- Z21 - [Labyrinth of Tides](z21/Z21.md)
-- Z23 - [Beneath Her Sacred Grounds](z23/Z23.md)
-- Z24 - [Garden of the High Choirs](z24/Z24.md)
-- Z25 - [Chapel of the Five Doves](z25/Z25.md)
-- Z26 - [Forlorn Patio](z26/Z26.md)
+- z01 - [Repose of the Silent One](z01/z01.md)
+- z02 - [Ravine of the High Stones](z02/z02.md)
+- z03 - [Aqueduct of the Costales](z03/z03.md)
+- z04 - [Sacred Entombments](z04/z04.md)
+- z05 - [City of the Blessed Name](z05/z05.md)
+- z06 - [Grilles and Ruin](z06/z06.md)
+- z07 - [Palace of the Embroideries](z07/z07.md)
+- z08 - [Choir of Thorns](z08/z08.md)
+- z09 - [Crown of Towers](z09/z09.md)
+- z10 - [Elevated Temples](z10/z10.md)
+- z11 - [Basilica of Absent Faces](z11/z11.md)
+- z12 - [Sunken Cathedral](z12/z12.md)
+- z13 - [Two Moons](z13/z13.md)
+- z14 - [Mother of Mothers](z14/z14.md)
+- z15 - [Sueños de Incienso](z15/z15.md)
+- z16 - [The Severed Tower](z16/z16.md)
+- z17 - [Streets of Wakes](z17/z17.md)
+- z18 - [Crimson Rains](z18/z18.md)
+- z19 - [Profundo Lamento](z19/z19.md)
+- z20 - [Sea of Ink](z20/z20.md)
+- z21 - [Labyrinth of Tides](z21/z21.md)
+- z23 - [Beneath Her Sacred Grounds](z23/z23.md)
+- z24 - [Garden of the High Choirs](z24/z24.md)
+- z25 - [Chapel of the Five Doves](z25/z25.md)
+- z26 - [Forlorn Patio](z26/z26.md)
 
-**Note:** Z22 does not exist
+**Note:** z22 does not exist
 
 --------
