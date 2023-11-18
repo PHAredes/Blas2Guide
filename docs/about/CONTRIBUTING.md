@@ -12,7 +12,7 @@ Right now there are a few ways of contributing to the project:
 
 1. Reporting issues and suggesting features on [GitHub Issues](#github-issues)
 2. Contributing via Pull Requests
-3. Improves the overall design of the page (I'm a backend developer with a framework and a dream)
+3. Improves the overall design of the page
 4. Upload you runs to [speedrun.com](https://www.speedrun.com/Blasphemous_II), since it is one of the main sources of footage for this guide
 
 ## Github Issues
@@ -38,7 +38,7 @@ To do so, follow this steps:
 
 ## Overall design
 
-You can improve the Favicons, make homepage looks less like a dental waiting room and anything you think can improve the overall aspects of the project. Pay attention this is built onto an opinionated framework to ensure simplicity, as the overall goal is to document speedrun tricks.  
+You can improve the favicons and anything you think can improve the overall aspects of the project. Pay attention this is built onto an opinionated framework to ensure simplicity, as the overall goal is to document speedrun tricks.  
 
 Please ensure that all contributions adhere to our style guidelines. If you're unsure about anything, feel free to ask us in
 
