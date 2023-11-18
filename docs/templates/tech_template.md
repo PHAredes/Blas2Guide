@@ -38,3 +38,7 @@
 ## List of Usages
 
 - List all possible usages
+
+:::tip
+Most usages will be a [skip](/skips/)
+:::

@@ -2,12 +2,25 @@
 
 ## Table Copypaste
 
-|                                     |                  |
+### Scene Table
+
+| **Scene id or name**                |                  |
 |-------------------------------------|------------------|
-| Quant. Exits                        |                  |
-| [Exits Position](##exits)           |                  |
-| [Enemies](##enemies)                |                  |
-| [Checks](##checks)                  |                  |
+| **No. of Exits**                    |                  |
+| [**Exits Position**](##exits)       |                  |
+| [**Enemies**](##enemies)            |                  |
+| [**Checks**](##checks)              |                  |
+
+### Technique Table
+
+|  Technique Name           |                           |
+|---------------------------|---------------------------|
+| **Speedrun Categories**   |                           |
+| **Game Version**          |                           |
+| **Requirements**          |                           |
+| **Setup Required**        |                           |
+| **Pixel/Frame related?**  |                           |
+| **Change Game Behavior?** |                           |
 
 ## Callout
 
@@ -38,3 +51,11 @@ This is a details block.
 You can modify the callout title by appending it to the end of the type.
 For example, `:::info Title` will have "Title" as its title.
 :::
+
+## Video autoplay Tag
+
+```html
+<video autoplay="autoplay">
+
+</video>
+```
