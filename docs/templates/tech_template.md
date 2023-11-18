@@ -38,3 +38,7 @@
 ## List of Usages
 
 - List all possible usages
+
+:::tip
+Most usages will be a skip, you can organize them at /public/skips and include into your technique page
+:::

@@ -50,12 +50,12 @@ add as many exit H3 headers as necessary
 You don't have to type nothing here, this H2 is for linking purposes
 :::
 
-### Check 1
+### Check (Item Name)
 
 ![image of the trigger, show hitbox and positionXY on debug](image link)
 
 :::tip
-add as many exit H3 headers as necessary
+Add as many exit H3 headers as necessary
 :::
 
 ### Check n

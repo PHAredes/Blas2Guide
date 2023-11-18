@@ -11,7 +11,7 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicons/apple-touch-icon.png' }],
     ['link', { rel: 'manifest', href: '/favicons/manifest.json' }]
   ],
-  
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
@@ -33,26 +33,28 @@ export default defineConfig({
       {
         text: 'Categories',
         items: [
-          { text: 'Arsenal of Penitence',
+          {
+            text: 'Arsenal of Penitence',
             link: '/arsenal/',
             collapsed: true,
             items: [
-              { text: 'Ruego al Alba', link: '/arsenal/ruego/'},
-              { text: 'Sarmiento & Centella', link: '/arsenal/s&c'},
-              { text: 'Veredicto', link: '/arsenal/veredicto'}
+              { text: 'Ruego al Alba', link: '/arsenal/ruego/' },
+              { text: 'Sarmiento & Centella', link: '/arsenal/s&c' },
+              { text: 'Veredicto', link: '/arsenal/veredicto' }
             ]
           },
           { text: 'Chants and Quick Verses', link: '/prayers/' },
           { text: 'Scene by Scene', link: '/scenes/' },
-          { text: 'Techniques', 
+          {
+            text: 'Techniques',
             link: '/technique/',
             collapsed: true,
             items: [
-              { text: 'Glitched', link: '/technique/glitched/'},
-              { text: 'Intended', link: '/technique/intended/'},
-              { text: 'Mirabras Rabbithole', link: '/technique/mirabras_rabbithole/'}
+              { text: 'Glitched', link: '/technique/glitched/' },
+              { text: 'Intended', link: '/technique/intended/' },
+              { text: 'Mirabras Rabbithole', link: '/technique/mirabras_rabbithole/' }
             ]
-          
+
           }
         ]
       },
@@ -60,7 +62,16 @@ export default defineConfig({
         text: 'Resources',
         items: [
           { text: 'Glossary', link: '/resources/glossary' },
-          { text: 'Additional Resources', link: '/resources/additional_resources' }
+          {
+            text: 'Additional Resources',
+            link: '/resources/additional_resources',
+            collapsed: true,
+            items: [
+              { text: 'Tech', link: '/templates/tech_template' },
+              { text: 'Scene', link: '/templates/scene_template' },
+              { text: 'Copypaste', link: '/templates/copypaste' }
+            ]
+          },
         ]
       },
       {
