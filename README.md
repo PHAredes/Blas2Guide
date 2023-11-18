@@ -43,9 +43,9 @@ In this wiki, we aim to document each scene of the game in detail, including the
 - Videos, gifs, and images showcasing these techniques
 - Links to related glitches, strats, and scene transitions
 
-Please refer to the individual folders in this repository to access scene-specific documentation. They are listed [here](src/scenes/scenes.md)
+Please refer to the individual folders in this repository to access scene-specific documentation.
 
-## [Tech Directory](src/technique/techs.md)
+## Tech Folder
 
 We maintain a directory of techniques, tricks, and glitches used in "Blasphemous 2." Each entry in the directory will include the following:
 
@@ -75,7 +75,7 @@ It is a goal to provide information about verses techniques, divided in two main
 
 ## Versions
 
-This is a guide for the Steam version 1.0.5 release. More informations [here](utils/versions.md).
+This is a guide for the Steam version 1.0.5 release
 
 ## Additional Resources
 
@@ -93,9 +93,9 @@ Here are some relevant links and resources for Blasphemous 2 speedrunning:
     Demajen's Metroidvania Maps are provided by Demajen and are subject to their terms of use and rules. Be sure to use the map in accordance with their guidelines and respect their content. Their maps are the property of Demajen, and any rules they have set should be followed.
   </details>
 
-## [Contributing](CONTRIBUTING.md)
+## Contributing
 
-For guidelines on how to contribute, please refer to the [CONTRIBUTING](docs\CONTRIBUTING.md) file.
+For guidelines on how to contribute, please refer to the [CONTRIBUTING](docs/about/CONTRIBUTING.md) file.
 
 ## [License](LICENSE)
 
