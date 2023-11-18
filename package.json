@@ -1,0 +1,19 @@
+{
+  "name": "blas2guide",
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "v1.0.0-rc.28",
+    "vue": "v3.3.8"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "pagefind": "^1.0.4",
+    "vitepress-plugin-pagefind": "^0.2.10"
+  }
+}
