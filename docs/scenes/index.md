@@ -54,5 +54,3 @@ Please note this project is on early stages, and you can [help by expanding it](
 - z26 - [Forlorn Patio](z26/z26)
 
 **Note:** z22 does not exist
-
----
