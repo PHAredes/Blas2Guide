@@ -99,7 +99,15 @@ For guidelines on how to contribute, please refer to the [CONTRIBUTING](docs/abo
 
 ## [License](LICENSE)
 
-This project is licensed under the [MIT License](LICENSE), which means it is open-source, and you are encouraged to use, modify, and share it.
+The textual content, media, and markdown files of this project are collectively licensed by [Blas2Guide Contributors](https://github.com/PHAredes/Blas2Guide/graphs/contributors) under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). This license covers the expressive content of the pages, allowing you the freedom to use, modify, and share them, provided you attribute the contributors and distribute any derivative works under the same license.
+
+Blas2Guide © 2023
+
+This software is built with [Vitepress](https://vitepress.dev/) and is licensed under the same [MIT License](LICENSE). As an open-source project, you are encouraged to use, modify, and share the software.
+
+**Note:**
+
+*Blasphemous* is a trademark or registered trademark of The Game Kitchen. The usage of content related to the trademark *Blasphemous* is based on fair use.
 
 ## Disclaimer
 
