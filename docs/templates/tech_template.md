@@ -2,7 +2,7 @@
 
 [![tech gif and video](insert tech gif)](insert tech video)
 
-|                           |                           |
+|  Technique Name           |                           |
 |---------------------------|---------------------------|
 | **Speedrun Categories**   | Insert speedrun category  |
 | **Game Version**          | 1.0.5                     |
@@ -38,3 +38,7 @@
 ## List of Usages
 
 - List all possible usages
+
+:::tip
+Most usages will be a skip, you can organize them at /public/skips and include into your technique page
+:::
