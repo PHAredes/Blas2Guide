@@ -18,8 +18,8 @@ Thanks to these properties and another glitch called Prayer Cancelling, there ar
   - [Super Jump](weight_of_sin/super_jump)
   - [Free Ascent](weight_of_sin/free_ascent)
 - [Travel to the City glitches](travel_to_city/)
-- [Miscellanious Tricks & Glitches](other/)
-  - [Infinite Ladder](other/infinite_ladder)
+- [Miscellanious Tricks & Glitches](other/index.md)
+  - [Infinite Ladder](other/infinite_ladder.md)
 
 ::: tip **Please note**
 Within the "Mirabras Rabbithole" category, techniques may have additional requirements beyond the minimum mentioned.
