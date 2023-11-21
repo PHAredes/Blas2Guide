@@ -10,13 +10,13 @@
 
 ## Description
 
-Mirabras Cancelling is a variety of Prayer Cancelling that's performed while casting the prayer Mirabrás of the Return to Port. It allows you to regain control of The Penitent One while the prayer animation is playing. This trick allows a plethora of other glitches with various requirements (see [Mirabras Rabbithole](../index.md)) There are three methods of performing this glitch:
+Mirabras Cancelling is a variety of Prayer Cancelling that's performed while casting the prayer Mirabrás of the Return to Port. It allows you to regain control of The Penitent One while the prayer animation is playing. This trick allows a plethora of other glitches with various requirements (see [Mirabras Rabbithole](../)) There are three methods of performing this glitch:
 
-- Menu Cancelling: a method with unique effects which is mainly used for [Time Stop](timestop.md) and [Invulnerability](invulnerability.md)
-- Weapon Swap Cancelling: the main method used for performing [Weight of Sin Techniques](../Wos/index.md) and other glitches
+- Menu Cancelling: a method with unique effects which is mainly used for [Time Stop](time_stop) and [Invulnerability](invulnerability)
+- Weapon Swap Cancelling: the main method used for performing [Weight of Sin Techniques](../weight_of_sin/) and other glitches
 - Verse Cancelling: an alternative to the weapon swap method with different requirements
 
-When this glitch is activated with any method other than menu cancelling, the menu for returning to city or not will show up within about a second. During that time you may move around and do various actions with various different affects. During this window, your horizontal movement speed will be greatly reduced although dash and air dash speed will remain the same. When the menu comes up, TPO's current animation will become frozen until the menu is closed. Depending on the action, his current movement speed may be stored while the mirabras menu remains up. If "Back" is chosen, gameplay will return to normal. If "Return to the City" is chosen, TPO's movement will be fixed and TPO will be warped to the city as normal once the warping animation is complete. There are some scenarios where control can be maintained while the warping animation is playing, see [Wrong Warp](../TraveltotheCity/wrongwarp.md) for details.
+When this glitch is activated with any method other than menu cancelling, the menu for returning to city or not will show up within about a second. During that time you may move around and do various actions with various different affects. During this window, your horizontal movement speed will be greatly reduced although dash and air dash speed will remain the same. When the menu comes up, TPO's current animation will become frozen until the menu is closed. Depending on the action, his current movement speed may be stored while the mirabras menu remains up. If "Back" is chosen, gameplay will return to normal. If "Return to the City" is chosen, TPO's movement will be fixed and TPO will be warped to the city as normal once the warping animation is complete. There are some scenarios where control can be maintained while the warping animation is playing, see [Wrong Warp](../travel_to_city/wrong_warp) for details.
 
 ## How to Perform
 
@@ -27,7 +27,7 @@ When this glitch is activated with any method other than menu cancelling, the me
 **Requirements**: Mirabrás of the Return to Port
 
 This method immediately cancels the rest of Mirabrás's activation and does not cause a menu to appear. It also skips the unfreezing of enemies and the reactivation of TPO's hitboxes.
-Greater discussion of these effects can be found within [Time Stop](timestop.md).
+Greater discussion of these effects can be found within [Time Stop](time_stop).
 
 To perform this method, equip Mirabras and press down and B to cast the prayer. You must have enough fervour to cast the prayer. Anytime during the animation where TPO slams his weapon down, open your menu and go to the prayers menu. Here you need to change your equipped chant. This can be done by either equipping another chant over Mirabras, unequipping Mirabras, or unequipping then reequipping Mirabras or any other chant. Once you unpause the game the weapons slam cutscene will continue to play but you can move around and act freely. Most actions will interrupt the end of Mirabras's animation. This method was patched in version 1.1.0
 
@@ -51,4 +51,4 @@ You can perform this method without a Phantom Verse. After changing your equippe
 
 ## List of Usages
 
-The amount of different usages for this technique are numerous, mostly in the form of other techniques. See [Mirabras Rabbithole](../index.md) for more details.
+The amount of different usages for this technique are numerous, mostly in the form of other techniques. See [Mirabras Rabbithole](../) for more details.

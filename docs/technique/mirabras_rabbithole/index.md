@@ -8,20 +8,18 @@ On the 1.0.5 version of the game, there are a quite a number of tricks and glitc
 
 Thanks to these properties and another glitch called Prayer Cancelling, there are a wide range of Mirabrás techniques. Almost all of these were patched out of version 1.0.5 and require at least two weapons or a quick verse in order to be performed:
 
-- [Mirabras Cancelling](MirabrasCancel/index.md)
-  - [Time Stop](MirabrasCancel/timestop.md)
-  - [Invulnerability](MirabrasCancel/invulnerability.md)
-- [Weight of Sin Techniques](WoS/index.md)
-  - [Ascension](WoS/ascension.md)
-  - [Hover](WoS/hover.md)
-  - [Infinite WoS](WoS/infiniteWoS.md)
-  - [Super Jump](WoS/superjump.md)
-  - [Free Ascent](WoS/freeascent.md)
-- [Travel to the City glitches](TraveltotheCity/index.md)
-  - [Weapon and Ability Cutscene Skips](cutsceneskip.md)
-  - [Wrong Warp & Limbo](wrongwarp.md)
-- [Miscellanious Tricks & Glitches](Other/index.md)
-  - [Infinite Ladder](infiniteladder.md)
+- [Mirabras Cancelling](mirabras_cancel/)
+  - [Time Stop](mirabras_cancel/time_stop)
+  - [Invulnerability](mirabras_cancel/invulnerability)
+- [Weight of Sin Techniques](weight_of_sin/)
+  - [Ascension](weight_of_sin/ascension)
+  - [Hover](weight_of_sin/hover)
+  - [Infinite weight_of_sin](weight_of_sin/infinite_WoS)
+  - [Super Jump](weight_of_sin/super_jump)
+  - [Free Ascent](weight_of_sin/free_ascent)
+- [Travel to the City glitches](travel_to_city/)
+- [Miscellanious Tricks & Glitches](other/)
+  - [Infinite Ladder](other/infinite_ladder)
 
 ::: tip **Please note**
 Within the "Mirabras Rabbithole" category, techniques may have additional requirements beyond the minimum mentioned.
