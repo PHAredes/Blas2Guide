@@ -8,7 +8,7 @@ You will find a list of techniques categorized as "Glitched," "Intended," and "M
 
 ## Format
 
-There is a technique [template](../templates/tech_template.md). It will follow this format:
+There is a technique [template](../templates/tech_template). It will follow this format:
 
 | Technique Name         | Technique Category        |
 |------------------------|---------------------------|
