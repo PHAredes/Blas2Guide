@@ -4,4 +4,4 @@ This category includes techniques that require obvious unintended behavior or br
 
 ## Glitched Tech List
 
-### [Alt Tab Early Control](alt_tab.md#alt-tab-early-control)
+### [Alt Tab Early Control](alt_tab#alt-tab-early-control)
