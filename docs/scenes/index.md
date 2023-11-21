@@ -18,7 +18,7 @@ As a few additions to this:
 - Breakable objects (as candles and boxes) and enemies will respawn after TPO interacts with a Prie Dieu. This is also true to interactive objects designed to give TPO access to some areas (statues that move platforms)
 - Puzzle objects will never be restored after puzzle is solved
 
-## zone List
+## Zone List
 
 ::: warning
 This list will lead you to empty pages.
