@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { pagefindPlugin } from 'vitepress-plugin-pagefind'
+import { mainSidebar, scenesSidebar, arsenalSidebar, techniqueSidebar, prayerSidebar } from './sidebar_config'
 
 export default defineConfig({
   lang: 'en-US',
@@ -29,62 +30,13 @@ export default defineConfig({
       { text: 'Techniques', link: '/technique/' }
     ],
 
-    sidebar: [
-      {
-        text: 'Categories',
-        items: [
-          {
-    text: 'Arsenal of Penitence',
-    link: '/arsenal/',
-    collapsed: true,
-    items: [
-      { text: 'Ruego al Alba', link: '/arsenal/ruego/' },
-      { text: 'Sarmiento & Centella', link: '/arsenal/s&c' },
-      { text: 'Veredicto', link: '/arsenal/veredicto' }
-    ]
-  },
-          { text: 'Chants and Quick Verses', link: '/prayers/' },
-          { text: 'Scene by Scene', link: '/scenes/' },
-          {
-    text: 'Techniques',
-    link: '/technique/',
-    collapsed: true,
-    items: [
-      { text: 'Glitched', link: '/technique/glitched/' },
-      { text: 'Intended', link: '/technique/intended/' },
-      { text: 'Mirabras Rabbithole', link: '/technique/mirabras_rabbithole/' }
-    ]
-
-  }
-]
-      },
-      {
-    text: 'Resources',
-        items: [
-    { text: 'Glossary', link: '/resources/glossary' },
-    {
-      text: 'Additional Resources',
-      link: '/resources/additional_resources',
-      collapsed: true,
-      items: [
-        { text: 'Tech', link: '/templates/tech_template' },
-        { text: 'Scene', link: '/templates/scene_template' },
-        { text: 'Copypaste', link: '/templates/copypaste' }
-      ]
+    sidebar: {
+      '/': mainSidebar(),
+      '/arsenal/': arsenalSidebar(),
+      '/prayers/': prayerSidebar(),
+      '/scenes/': scenesSidebar(),
+      '/technique/': techniqueSidebar()
     },
-  ]
-},
-      {
-        text: 'About',
-        items: [
-    { text: 'Game Versions', link: '/about/game_versions' },
-    { text: 'Contributing', link: '/about/CONTRIBUTING' },
-    { text: 'Credits', link: '/about/CREDITS' },
-    { text: 'License', link: '/about/LICENSE' },
-    { text: 'Disclaimer', link: '/about/DISCLAIMER' },
-  ]
-},
-    ],
 
     footer: {
       message: 'Released under the MIT License.'
