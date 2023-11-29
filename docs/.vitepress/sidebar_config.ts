@@ -8,8 +8,6 @@ export default interface Sidebar {
 export function mainSidebar(): Sidebar | any {
   return [
     sidebarCategories(),
-    sidebarResources(),
-    sidebarAbout()
   ]
 }
 
@@ -20,8 +18,6 @@ export function scenesSidebar() {
       link: '/get_started'
     },
     sidebarCategories(),
-    sidebarResources(),
-    sidebarAbout()
   ]
 }
 
@@ -37,8 +33,6 @@ export function arsenalSidebar() {
       ]
     },
     sidebarCategories(),
-    sidebarResources(),
-    sidebarAbout()
   ]
 }
 
@@ -52,10 +46,8 @@ export function techniqueSidebar() {
         { text: 'Intended', link: '/technique/intended/' },
         { text: 'Mirabras Rabbithole', link: '/technique/mirabras_rabbithole/' }
       ]
-    }, 
+    },
     sidebarCategories(),
-    sidebarResources(),
-    sidebarAbout()
   ]
 }
 
@@ -76,44 +68,49 @@ export function prayerSidebar() {
       text: 'Prayers',
       link: '/prayers/',
       items: [
-        { text: 'Chants', link: 'prayers'},
-        { text: 'Quick Verses', link: '/prayers/verses/'},
+        { text: 'Chants', link: '/prayers/chants/' },
+        { text: 'Quick Verses', link: '/prayers/verses/' },
       ]
     },
     sidebarCategories(),
-    sidebarResources(),
-    sidebarAbout()
   ]
 }
 
-function sidebarResources() {
-  return {
-    text: 'Resources',
-    items: [
-      { text: 'Glossary', link: '/resources/glossary' },
-      {
-        text: 'Additional Resources',
-        link: '/resources/additional_resources',
-        collapsed: true,
-        items: [
-          { text: 'Tech', link: '/templates/tech_template' },
-          { text: 'Scene', link: '/templates/scene_template' },
-          { text: 'Copypaste', link: '/templates/copypaste' }
-        ]
-      },
-    ]
-  }
+export function resourcesSidebar() {
+  return [
+    { text: 'Glossary', link: '/resources/glossary' },
+    {
+      text: 'Templates',
+      items: [
+        { text: 'Copypaste', link: '/resources/templates/copypaste' },
+        { text: 'Scene Template', link: '/resources/templates/scene_template' },
+        { text: 'Tech Template', link: '/resources/templates/tech_template' }
+
+      ]
+    },
+    { text: 'Useful Links', link: '/resources/links' },
+    {
+      text: 'Back to main guide',
+      link: '/get_started'
+    }
+  ]
 }
 
-function sidebarAbout() {
-  return {
-    text: 'About',
-    items: [
-      { text: 'Game Versions', link: '/about/game_versions' },
-      { text: 'Contributing', link: '/about/CONTRIBUTING' },
-      { text: 'Credits', link: '/about/CREDITS' },
-      { text: 'License', link: '/about/LICENSE' },
-      { text: 'Disclaimer', link: '/about/DISCLAIMER' },
-    ]
-  }
+export function aboutSidebar() {
+  return [
+    {
+      text: 'About',
+      items: [
+        { text: 'Game Versions', link: '/about/game_versions' },
+        { text: 'Contributing', link: '/about/CONTRIBUTING' },
+        { text: 'Credits', link: '/about/CREDITS' },
+        { text: 'License', link: '/about/LICENSE' },
+        { text: 'Disclaimer', link: '/about/DISCLAIMER' }
+      ]
+    },
+    {
+      text: 'Back to main guide',
+      link: '/get_started'
+    }
+  ]
 }

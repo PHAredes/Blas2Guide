@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { pagefindPlugin } from 'vitepress-plugin-pagefind'
-import { mainSidebar, scenesSidebar, arsenalSidebar, techniqueSidebar, prayerSidebar } from './sidebar_config'
+import { mainSidebar, scenesSidebar, arsenalSidebar, techniqueSidebar, prayerSidebar, resourcesSidebar, aboutSidebar } from './sidebar_config'
 
 export default defineConfig({
   lang: 'en-US',
@@ -16,6 +16,9 @@ export default defineConfig({
   vite: {
     plugins: [pagefindPlugin()],
   },
+  sitemap: {
+    hostname: 'https://blas2guide.vercel.app'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
@@ -24,10 +27,22 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Arsenal', link: '/arsenal/' },
-      { text: 'Prayers', link: '/prayers/' },
-      { text: 'Scenes', link: '/scenes/' },
-      { text: 'Techniques', link: '/technique/' }
+      {
+        text: 'Guide',
+        items: [
+          { text: 'Arsenal', link: '/arsenal/' },
+          { text: 'Prayers', link: '/prayers/' },
+          { text: 'Scenes', link: '/scenes/' },
+          { text: 'Techniques', link: '/technique/' }]
+      },
+      {
+        text: 'Resources',
+        items: [
+          { text: 'Glossary', link: '/resources/glossary' },
+          { text: 'Links', link: '/resources/links'}
+        ]
+      },
+      {text: 'About', link: '/about/DISCLAIMER'}
     ],
 
     sidebar: {
@@ -35,11 +50,13 @@ export default defineConfig({
       '/arsenal/': arsenalSidebar(),
       '/prayers/': prayerSidebar(),
       '/scenes/': scenesSidebar(),
-      '/technique/': techniqueSidebar()
+      '/technique/': techniqueSidebar(),
+      '/resources/': resourcesSidebar(),
+      '/about/': aboutSidebar()
     },
 
     footer: {
-      message: 'Released under the MIT License.'
+      message: 'Content under the CC BY-SA 4.0 License. Powered by Vitepress'
     },
 
     socialLinks: [
