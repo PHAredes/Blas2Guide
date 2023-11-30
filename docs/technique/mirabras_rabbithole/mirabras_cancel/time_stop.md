@@ -13,9 +13,9 @@
 
 Time Stop is a glitch that uses Mirabrás of the Return to Port to freeze enemies in place permenantly without costing any fervour. The glitch can be activated in a number of different ways and can even be transferred between files. All methods of performing this glitch were patched in version 1.1.0.
 
-When casting prayers, multiple ingame clocks are stopped to let the animation play out. The first is the Enemy Clock. When this value is set to 0, all of the enemies on screen freeze in the middle of their animation until the value is reset to 1. This clock is used by Seguiriya to the Memory of your Eyes (the time stop prayer) and is also stopped when any prayer is cast and when loading in from a save file. The second is the Level Clock. When set to 0, other elements of the level are frozen in place. This includes moving platforms and bell platforms and gates. This is usually used by cutscenes such as interacting with statues or picking up items.
+When casting prayers, multiple ingame clocks are paused to let the animation play out. The first is the Enemy Clock. When this value is set to 0, all of the enemies on screen freeze in the middle of their animation until the value is reset to 1. This clock is used by Seguiriya to the Memory of your Eyes (the time stop prayer) and is also used when prayers are cast and when loading in from a save file. The second is the Level Clock. When set to 0, other elements of the level are frozen in place. This includes moving platforms, bell platforms, and gates.
 
-When Mirabras is cast, the initial slam animation will set both the Enemy Clock and the Level Clock to 0 but both will be returned to 1 once the slam happens. This is in line with the other prayer animations in the game. However, while waiting for the Mirabras menu to come up, both Enemy Clock and Level Clock are again set to 0 and will stay there until an option is chosen. For whatever reason, if an option is never chosen then both Enemy Clock and Level Clock will remain at 0 until the game is turned off.
+When Mirabras is cast, the initial slam animation will set both the Enemy Clock and the Level Clock to 0 but both will be returned to 1 once the slam happens. This is in line with the other prayer animations in the game. However, while waiting for the Mirabras menu to come up, both Enemy Clock and Level Clock are again set to 0 and will be frozen there until an option is chosen. For whatever reason, if an option is never chosen then both Enemy Clock and Level Clock will remain at 0 until the game is turned off.
 
 This glitch can also be used to activate [Invulnerability](invulnerability) but because there are many softlocks and roadblocks created by use this glitch, it's use in speedruns is fairly limited.
 
@@ -65,9 +65,9 @@ An alternative to Menu Time Stop. To perform weapon swap cancel Mirabras by cast
 
 A very different form of Time Stop obtained by interupting a statue cutscene instead. To perform, Mirabras cancel in front of a statue and immediatly interact with it. Once the Mirabras menu comes up, select "Return to the City". If the warp goes through before the cutscene ends, then Enemy Clock will be set to 0 but Level Clock will be unfrozen. Once you spawn in East City, you will be unable to move. This can be cancelled by swapping weapons, swinging your weapon, or casting a prayer.
 
-Because Level Clock is unaffected by this trick, only enemies and bosses are affected by the trick. Falling platforms, gates, and other interactable elements are unaffected.
+Because Level Clock is unaffected by this trick, only enemies and bosses are affected by the trick. Falling platforms, gates, and other interactable elements are unaffected. This version also does not provide any invulnerability.
 
-This kind of Time Stop also persists through game files but unlike regular Time Stop can be cancelled without turning the game off. Interacting with any statue will return gameplay to normal.
+This kind of Time Stop also persists through game files but unlike regular Time Stop can be cancelled without turning the game off. Interacting with any statue will return gameplay to normal. 
 
 ## List of Usages
 
