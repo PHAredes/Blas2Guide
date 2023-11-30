@@ -13,7 +13,7 @@ Here you can _Provide a scene description_
 
 ## Skips
 
-For every skip, create a file with the skip description inside docs/public/skips/scene_id_path, and [include](https://vitepress.dev/guide/markdown#markdown-file-inclusion) it here if it is a page or just ad as a normal asset if it is a .mp4 or .gif. You can see an example of include [here](../scenes/z01/z0101)
+For every skip, create a file with the skip description inside docs/public/skips/scene_id_path, and [include](https://vitepress.dev/guide/markdown#markdown-file-inclusion) it here if it is a page or just ad as a normal asset if it is a .mp4 or .gif. You can see an example of include [here](../../scenes/z01/z0101/)
 
 ``` md
 <!--@include: @/public/skips/scene_id_path/file_name-->
