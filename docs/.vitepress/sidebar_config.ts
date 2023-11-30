@@ -117,7 +117,8 @@ export function resourcesSidebar() {
           items: [
             { text: 'Copypaste', link: '/resources/templates/copypaste' },
             { text: 'Scene Template', link: '/resources/templates/scene_template' },
-            { text: 'Tech Template', link: '/resources/templates/tech_template' }
+            { text: 'Tech Template', link: '/resources/templates/tech_template' },
+            { text: 'Skip Template', link: '/resources/templates/skip_template' }
 
           ]
         },
