@@ -16,12 +16,15 @@ export default defineConfig({
   vite: {
     plugins: [pagefindPlugin()],
   },
+
   sitemap: {
     hostname: 'https://blas2guide.vercel.app'
   },
+  cleanUrls: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-
+    
     editLink: {
       pattern: 'https://github.com/PHAredes/Blas2-Speedrun-Guide/tree/main/docs/:path'
     },
@@ -63,6 +66,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/PHAredes/Blas2-Speedrun-Guide' },
       { icon: 'youtube', link: 'https://www.youtube.com/@Blasphemous2Guide' },
     ],
-
   }
 })
