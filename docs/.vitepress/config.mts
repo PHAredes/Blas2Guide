@@ -16,9 +16,6 @@ export default defineConfig({
   vite: {
     plugins: [pagefindPlugin()],
   },
-  sitemap: {
-    hostname: 'https://blas2guide.vercel.app'
-  },
   cleanUrls: true,
 
   themeConfig: {
