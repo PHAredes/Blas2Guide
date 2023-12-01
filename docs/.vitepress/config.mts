@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 import { mainSidebar, scenesSidebar, arsenalSidebar, techniqueSidebar, prayerSidebar, resourcesSidebar, aboutSidebar } from './sidebar_config'
 
@@ -15,6 +16,11 @@ export default defineConfig({
   ],
   vite: {
     plugins: [pagefindPlugin()],
+  },
+  markdown: {
+    config(md) {
+      md.use(tabsMarkdownPlugin)
+    }
   },
   cleanUrls: true,
 
