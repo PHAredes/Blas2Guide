@@ -4,6 +4,19 @@
 
 ### Scene Table
 
+- Input
+
+```markdown
+| **Scene id or name**                |                  |
+|-------------------------------------|------------------|
+| **No. of Exits**                    |                  |
+| [**Exits Position**](##exits)       |                  |
+| [**Enemies**](##enemies)            |                  |
+| [**Checks**](##checks)              |                  |
+```
+
+- Output
+
 | **Scene id or name**                |                  |
 |-------------------------------------|------------------|
 | **No. of Exits**                    |                  |
@@ -12,6 +25,21 @@
 | [**Checks**](##checks)              |                  |
 
 ### Technique Table
+
+- Input
+
+```markdown
+|  Technique Name           |                           |
+|---------------------------|---------------------------|
+| **Speedrun Categories**   |                           |
+| **Game Version**          |                           |
+| **Requirements**          |                           |
+| **Setup Required**        |                           |
+| **Pixel/Frame related?**  |                           |
+| **Change Game Behavior?** |                           |
+```
+
+- Output
 
 |  Technique Name           |                           |
 |---------------------------|---------------------------|
@@ -24,7 +52,45 @@
 
 ## Callout
 
-```md
+:::tip
+You can modify the callout title by appending it to the end of the type.
+For example, `:::info Title` will have "Title" as its title.
+:::
+
+- Input
+
+```markdown
+::: info
+This is an info box.
+:::
+```
+
+```markdown
+::: tip
+This is a tip.
+:::
+```
+
+```markdown
+::: warning
+This is a warning.
+:::
+```
+
+```markdown
+::: danger
+This is a dangerous warning.
+:::
+```
+
+```markdown
+::: details
+This is a details block.
+:::
+```
+
+- Output
+
 ::: info
 This is an info box.
 :::
@@ -45,13 +111,6 @@ This is a dangerous warning.
 This is a details block.
 :::
 
-```
-
-:::tip
-You can modify the callout title by appending it to the end of the type.
-For example, `:::info Title` will have "Title" as its title.
-:::
-
 ## Video autoplay Tag
 
 ```html
@@ -59,3 +118,27 @@ For example, `:::info Title` will have "Title" as its title.
 
 </video>
 ```
+
+## Tabs Component
+
+Doc [here](https://vitepress-plugins.sapphi.red/tabs/#syntax)
+
+- Input
+
+```markdown
+:::tabs
+== tab a
+a content
+== tab b
+b content
+:::
+```
+
+- Output
+
+:::tabs
+== tab a
+a content
+== tab b
+b content
+:::
