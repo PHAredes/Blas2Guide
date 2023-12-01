@@ -41,7 +41,6 @@
 
 - Output
 
-```markdown
 |  Technique Name           |                           |
 |---------------------------|---------------------------|
 | **Speedrun Categories**   |                           |
@@ -50,7 +49,6 @@
 | **Setup Required**        |                           |
 | **Pixel/Frame related?**  |                           |
 | **Change Game Behavior?** |                           |
-```
 
 ## Callout
 
