@@ -24,8 +24,8 @@ The objectives of this project are clarified [here](utils/goals.md).
 
 - [x] Project structure
 - [x] Functional website
-- [ ] [Tabs](https://github.com/PHAredes/Blas2Guide/issues/12) for alternative strats
-- [ ] Improve sidebar [navigation](https://github.com/PHAredes/Blas2Guide/issues/15)
+- [x] [Tabs](https://github.com/PHAredes/Blas2Guide/issues/12) for alternative strats
+- [x] Improve sidebar [navigation](https://github.com/PHAredes/Blas2Guide/issues/15)
 - [ ] Improve [visual identity](https://github.com/PHAredes/Blas2Guide/issues/14)
 - [ ] [Icons](https://github.com/PHAredes/Blas2Guide/issues/13) for fight-game alike tutorials
 
