@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress';
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
-import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 import { mainSidebar, scenesSidebar, arsenalSidebar, techniqueSidebar, prayerSidebar, resourcesSidebar, aboutSidebar } from './sidebar_config'
 
 export default defineConfig({
@@ -15,7 +14,6 @@ export default defineConfig({
     ['link', { rel: 'manifest', href: '/favicons/manifest.json' }]
   ],
   vite: {
-    plugins: [pagefindPlugin()],
   },
   markdown: {
     config(md) {
@@ -27,7 +25,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     returnToTopLabel: 'Back to top', 
-    
+    search: {
+      provider: 'local'
+    },
     editLink: {
       pattern: 'https://github.com/PHAredes/Blas2-Speedrun-Guide/tree/main/docs/:path'
     },
