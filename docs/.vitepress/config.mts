@@ -21,9 +21,10 @@ export default defineConfig({
     }
   },
   cleanUrls: true,
-
+  sitemap: {
+    hostname: 'https://blas2guide.vercel.app',
+  },
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     returnToTopLabel: 'Back to top', 
     search: {
       provider: 'local'
