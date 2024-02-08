@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "v1.0.0-rc.31",
+    "vitepress": "v1.0.0-rc.42",
     "vitepress-plugin-tabs": "^0.5.0",
     "vue": "v3.3.8"
   },
@@ -14,7 +14,6 @@
     "serve": "vitepress serve docs"
   },
   "dependencies": {
-    "pagefind": "^1.0.4",
-    "vitepress-plugin-pagefind": "^0.2.10"
+    "pagefind": "^1.0.4"
   }
 }
