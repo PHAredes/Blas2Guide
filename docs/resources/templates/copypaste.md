@@ -52,10 +52,10 @@
 
 ## Callout
 
-:::tip
 You can modify the callout title by appending it to the end of the type.
 For example, `:::info Title` will have "Title" as its title.
-:::
+
+It also supports [GFM alerts](https://github.com/orgs/community/discussions/16925) which has a more concise syntax but is less powerful as you can't change titles
 
 - Input
 
